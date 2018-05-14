@@ -1,40 +1,57 @@
-# HTML-CSS-Resume
-##### Build your own online resume!
+<html>
 
----
+<head>
 
-### Task 1 / Classwork 1 (Lecture 3 - HTML)
-##### Just HTML & Content
+  <title>Resume!</title>
 
-* Create your own resume using only HTML
+</head>
 
-* Must use the following tags:
-  - heading (h1, h2, ...)
-  - paragraph (p)
-  - div
-  - lists (ul-li / ol-li)
-  - image (img)
-  - links (a)
-  - table (th, tr, td, ...)
-  - form (form, input, button, ...)
+<body>
 
-Work & submit in a branch names **html**
+  <h1>Resume</h1>
+  <p>
+      <b>Name:</b> Alim Al Saadman
+    </p>
+      <p>
+        <b>Address:</b> Uttara
+        </p>
+        <p>
+          <b>Email:</b> asadasd@gmail.com
+        </p>
 
----
+        <p><b>Institute:</b>IUB
+    <p>
+       <h2><b>Skills</b></h2>
+     </p>
+     <ul>
+       <li>
+         Fluence in English
+       </li>
+       <li>
+         Good teamworking ability
+       </li>
+       <li>
+         MS Office
+       </li>
+       <li>
+         C++,HTML,CSS,Bootstrap,SQL
+       </li>
+       <li>
+         Be able to work in multitasking duties
+       </li>
+       <li>
+         Meet deadlines
+       </li>
+     </ul>
 
-### Task 2 / Classwork 2 (Lecture 4 - CSS)
-##### Style your HTML resume using CSS
+     <h2><b>Work Experience</b></h2>
+     <p><b>May 2015 - June 2017</b></p>
+       <b>Exam Invigilator</b>
+       <p><b>British Coucil, Bangladesh</b></p>
+       <img src="1.png"
+       alt="BC"
+       style="width:100px;height:28px;">
 
-* Unleash your creativity
-  - Imagine / draw out how you want the content on your resume to look and implement it with CSS
-  - You may take inspiration from [csszengarden.com](http://csszengarden.com/) to see what's possible with CSS
+</body>
 
-Work & submit in a branch names **css**
-
----
-
-#### Featured Assignments from previous semesters
-##### Spring 2017 
-[HTML CSS Resume by Samina Hossain 1421163](https://github.com/samazing94/HTML-CSS-Resume)
-![Samina's Resume](/../screenshots/spring17_Samina.gif?raw=true "Samina's Resume") 
-
+</html>
